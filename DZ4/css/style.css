@@ -1,0 +1,171 @@
+.layer1 {
+	margin: auto;
+	width: 1280px;
+	background: url('../img/bg.jpg');
+	font-family: Arial; 
+}
+
+
+.layer2 {
+	margin: auto;
+	width: 1000px;
+	background: #FFFFFF;
+	box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.8);
+}
+
+
+.logo {
+	position: relative;
+	top: 25px;
+	left: 15px;
+	float: left;
+}
+
+h1 {
+	position: absolute;
+	top: 120px;
+	left: 80px;
+	color: #128aa7;
+	font-size: 11px;
+}
+
+.contacts {
+	position: absolute;
+	top: 45px;
+	left: 1020px;
+	color: #128aa7;
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+.catalog {
+	float: left;
+	margin-top: 150px;
+	margin-left: 350px;
+}
+
+.catalog li {
+    display: inline-block;
+	width: 55px;
+    vertical-align: top;
+    color: #128aa7;
+	font-size: 10px;
+	text-align: center;
+}
+
+.catalog li a {
+	color: #128aa7;
+}
+
+.catalog li img {
+    display: block;
+	margin: auto;
+}
+
+.photo {
+	margin: auto;
+	margin-top: 11px;
+	width: 1000px;
+}
+
+
+.sign {
+	font-size: 10px;
+}
+
+.nav_panel {
+	width: 1000px;
+	height: 30px;
+	margin-top: -3px;
+	border-top: 1px solid #CACBCB;
+	background: #343434;
+	color: #FFFFFF;
+}
+
+
+.nav {
+	padding: 0 30px;
+}
+
+.nav li {
+	position: relative; 
+	float: left; 
+	height: 30px; 
+	z-index: 1;
+	margin: 0 28px;
+	background: #343434;
+	font-size: 15px;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+.nav li ul {
+	position: absolute; 
+	display: none; 
+	left: 0;
+	top: 30px; 
+	margin-left: -10px;
+	width: 150px;
+	border: 1px solid #000;
+	padding-bottom: 3px;
+	background: #343434;
+}
+
+.nav li ul li {
+	float: none;
+	height: 25px; 
+	margin: 0;
+	padding-left: 10px ;
+	display: block;
+	line-height: 25px;
+}
+
+.nav li:hover ul {
+display: block; 
+}
+
+
+.fon {
+	overflow: hidden; 
+	width: 1000px;
+	line-height: 1.7;
+	font-size: 14px;
+	text-align: center;
+}
+
+.leftColumn {
+	width: 205px;
+	float: left;
+	padding-bottom: 20000px;
+	margin-bottom: -20000px;
+	background: #EDEEF0;
+}
+
+.centerColumn {
+	width: 590px;
+	float: left;
+	background: #FFFFFF;
+}
+
+.rightColumn {
+	width: 205px;
+	float: right;
+	padding-bottom: 20000px;
+	margin-bottom: -20000px;
+	background: #EDEEF0;
+}
+
+h3 {
+	color: #424C43;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.copyright{
+	height: 30px; 
+	padding-top: 10px;
+	color:#FFFFFF;
+	font-size: 12px;
+	text-align: center;
+}

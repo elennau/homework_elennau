@@ -1,6 +1,6 @@
 .layer1 {
 	margin: auto;
-	background: url('../img/fon.jpg');
+	background: url('../img/bg.jpg');
 	width: 960px;
 	height: 883px;
 	font-family: Arial; 
@@ -56,6 +56,10 @@ h1 {
     text-align: center;
 	color: #DCDCDC;
 	font-size: 14px;
+}
+
+.catalog  img:hover {
+	border-radius:40%;
 }
 
 .catalog img {
