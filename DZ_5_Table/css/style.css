@@ -1,0 +1,75 @@
+.layer1 { 
+	background: #EEEEEE; 
+} 
+
+table {
+	margin: auto;
+	border-collapse: collapse; 
+    border: 6px solid #EEEEEE; 
+}
+
+td {
+	border: 5px solid black; 
+}
+
+.red {
+	color: red;
+	background: red;
+}
+
+.yellow {
+	color: yellow;
+	background: yellow;
+}
+
+.blue {
+	color: blue ;
+	background: blue ;
+	
+}
+
+.black {
+	color: #192823;
+	background: #192823;
+}
+
+.white {
+	color: white;
+	background: white;
+}
+
+.h {
+	height: 100px; 
+}
+
+.h2 {
+	height: 200px; 
+}
+
+.h3 {
+	height: 300px; 
+}
+
+.h4 {
+	height: 400px; 
+}
+
+.h_ {
+	height: 50px; 
+}
+
+.w {
+	width: 100px;
+}
+
+.w2 {
+	width: 200px;
+}
+
+.w3 {
+	width: 300px;
+}
+
+.w4 {
+	width: 400px;
+}
