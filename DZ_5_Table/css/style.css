@@ -39,37 +39,37 @@ td {
 }
 
 .h {
-	height: 100px; 
-}
-
-.h2 {
-	height: 200px; 
-}
-
-.h3 {
-	height: 300px; 
-}
-
-.h4 {
-	height: 400px; 
-}
-
-.h_ {
 	height: 50px; 
 }
 
+.h2 {
+	height: 100px; 
+}
+
+.h3 {
+	height: 150px; 
+}
+
+.h4 {
+	height: 200px; 
+}
+
+.h_ {
+	height: 30px; 
+}
+
 .w {
-	width: 100px;
+	width: 50px;
 }
 
 .w2 {
-	width: 200px;
+	width: 100px;
 }
 
 .w3 {
-	width: 300px;
+	width: 150px;
 }
 
 .w4 {
-	width: 400px;
+	width: 200px;
 }
