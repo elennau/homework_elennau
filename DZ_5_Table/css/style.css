@@ -1,11 +1,8 @@
-.layer1 { 
-	background: #EEEEEE; 
-} 
 
 table {
 	margin: auto;
 	border-collapse: collapse; 
-    border: 6px solid #EEEEEE; 
+    border: 6px solid #fff; 
 }
 
 td {
@@ -13,24 +10,24 @@ td {
 }
 
 .red {
-	color: red;
-	background: red;
+	color: #ff6548;
+	background: url('../img/red.png') repeat;
 }
 
 .yellow {
-	color: yellow;
-	background: yellow;
+	color: #ffea59;
+	background: url('../img/yellow.png') repeat;
 }
 
 .blue {
-	color: blue ;
-	background: blue ;
+	color: #064380 ;
+	background: url('../img/blue.png') repeat;
 	
 }
 
 .black {
 	color: #192823;
-	background: #192823;
+	background: url('../img/black.png') repeat;
 }
 
 .white {
